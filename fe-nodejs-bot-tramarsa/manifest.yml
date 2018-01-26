@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: fe-nodejs-bot-tramarsa
+  host: fe-nodejs-bot-tramarsa
+  disk_quota: 1024M
